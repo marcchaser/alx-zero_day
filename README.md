@@ -1,2 +1,2 @@
 My first readme
-git programme 
+good programmer
